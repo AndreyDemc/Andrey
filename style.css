@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(146, 130, 161);
+    color: crimson;
+    font-size: 20px;
+}
+h1{
+    color: chartreuse;
+}
+head{
+    height: 200px;
+    background-color: azure;
+}
+nav{
+    height: 150px;
+    background-color: bisque;
+}
+main{
+    height: 500px;
+    background-color: burlywood;
+}
+footer{
+    height: 100px;
+    background-color: rgb(7, 37, 76);
+}
+a{
+    border: black;
+    border-radius: 20px;
+    background-color: rgb(26, 97, 203);
+    text-decoration: none;
+    padding: 10px;
+    margin: 20px;
+}
